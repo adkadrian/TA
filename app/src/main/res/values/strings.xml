@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Training Assistant v.2</string>
+    <string name="start_training">start next training</string>
+    <string name="manage_trainings">manage training plans</string>
+    <string name="training_history">training history</string>
+    <string name="about_app">about app</string>
+    <string name="app_logo">app logo</string>
+    <string name="plans">plans</string>
+    <string name="exercises">exercises</string>
+</resources>
